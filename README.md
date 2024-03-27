@@ -1,5 +1,7 @@
 ### Hi there 👋 一名不知名的开发者，Kunspire 上游小坤
 
+#### 🔭软件工程专业，处于自学编程状态中🤔
+
 <!--
 **KunspireUp/KunspireUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=KunspireUp&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunspireUp&layout=compact&theme=tokyonight)
+
 
