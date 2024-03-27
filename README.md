@@ -11,6 +11,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunspireUp&layout=compact" alt="Top Languages">
     </div>
     <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-        <img src="https://github-readme-stats.vercel.app/api?username=KunspireUp&show_icons=true&theme=transparent" alt="Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=KunspireUp&show_icons=true&theme=synthwave" alt="Stats">
     </div>
 </div>
