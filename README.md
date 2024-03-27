@@ -11,7 +11,7 @@
     </div>
     <p></p>
     <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=cotton candy" alt="Ashutosh's github activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=cottoncandy" alt="Ashutosh's github activity graph">
     </div>
 </body>
 </html>
