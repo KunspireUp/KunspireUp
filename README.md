@@ -2,7 +2,7 @@
     <div>
         <h1 align="center"> 
             <a href="https://sunguoqi.com/"> 
-                <img src="https://readme-typing-svg.herokuapp.com/?lines=Take a sip of water pressure and write the code;!喝口水压压惊，再写代码!&center=true&size=27"> 
+                <img src="https://readme-typing-svg.herokuapp.com/?lines=VGFrZSBhIHNpcCBvZiB3YXRlciBwcmVzc3VyZSBhbmQgd3JpdGUgdGhlIGNvZGU=;!喝口水压压惊，再写代码!&center=true&size=27"> 
             </a>
         </h1>
     </div>
