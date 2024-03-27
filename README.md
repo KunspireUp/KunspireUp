@@ -2,7 +2,7 @@
     <div>
         <h1 align="center"> 
             <a href="https://sunguoqi.com/"> 
-                <img src="https://readme-typing-svg.herokuapp.com/?lines=不积硅步无以至千里!喝口水压压惊，再写代码!&center=true&size=27"> 
+                <img src="https://readme-typing-svg.herokuapp.com/?lines=(不积硅步无以至千里);喝口水压压惊，再写代码!&center=true&size=27"> 
             </a>
         </h1>
     </div>
