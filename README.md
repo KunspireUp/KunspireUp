@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunspireUp)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunspireUp\&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=KunspireUp&show_icons=true&theme=transparent)
 
