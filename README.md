@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=KunspireUp&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunspireUp&layout=compact&theme=tokyonight)
-
 
 
 
