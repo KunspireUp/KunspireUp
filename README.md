@@ -1,4 +1,11 @@
 <body>
+    <div>
+        <h1 align="center"> 
+            <a href="https://sunguoqi.com/"> 
+                <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);喝口水压压惊，再写代码!&center=true&size=27"> 
+            </a>
+        </h1>
+    </div>
     <div align="center">
     <h2>👋 Hi there, I'm a developer on Kunspire, Kunspire Upstream Xiaokun</h2>
     <h4>🔭 Currently studying software engineering and self-learning programming 🤔</h4>
