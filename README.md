@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Divider Example</title>
-    <style>
-        /* 自定义分割线样式 */
-        .divider {
-            width: 100%; /* 设置分割线的宽度 */
-            height: 1px; /* 设置分割线的高度 */
-            background-color: #ccc; /* 设置分割线的颜色 */
-            margin: 20px 0; /* 设置分割线的上下边距 */
-        }
-    </style>
-</head>
 <body>
     <div align="center">
     <h2>👋 Hi there, I'm a developer on Kunspire, Kunspire Upstream Xiaokun</h2>
